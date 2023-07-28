@@ -4,6 +4,8 @@
 
 Welcome to our restaurant's frontend website repository! This project contains the code for our restaurant's website, which showcases our delicious menu, location, and various offerings. The website is built using HTML, CSS, and JavaScript, and it is designed to provide a delightful and user-friendly experience to our customers.
 
+👉 Live Demo: <a href='https://priyanshu-su30.github.io/DELICIASO/'>DELICIASO</a>
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
